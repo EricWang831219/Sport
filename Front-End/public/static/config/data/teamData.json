@@ -1,0 +1,126 @@
+{
+    "teamData": {
+        "eastern": [{
+                "name": "Boston",
+                "img": "/static/images/icon/Boston_Celtics.png"
+            },
+            {
+                "name": "Brooklyn",
+                "img": "/static/images/icon/Brooklyn_Nets.png"
+            },
+			{
+                "name": "New York",
+                "img": "/static/images/icon/New_York_Knicks.png"
+            },
+			{
+                "name": "Philadelphia",
+                "img": "/static/images/icon/Philadelphia_76ers.png"
+            },
+			{
+                "name": "Toronto",
+                "img": "/static/images/icon/Toronto_Raptors.png"
+            },
+			{
+                "name": "Chicago",
+                "img": "/static/images/icon/Chicago_Bulls.png"
+            },
+			{
+                "name": "Cleveland",
+                "img": "/static/images/icon/Cleveland_Cavaliers.png"
+            },
+			{
+                "name": "Detroit",
+                "img": "/static/images/icon/Pistons.png"
+            },
+			{
+                "name": "Indiana",
+                "img": "/static/images/icon/Indiana_Pacers.png"
+            },
+			{
+                "name": "Milwaukee",
+                "img": "/static/images/icon/Milwaukee_Bucks.png"
+            },
+			{
+                "name": "Atlanta",
+                "img": "/static/images/icon/Atlanta_Hawks.png"
+            },
+			{
+                "name": "Charlotte",
+                "img": "/static/images/icon/Charlotte_Hornets.png"
+            },
+			{
+                "name": "Miami",
+                "img": "/static/images/icon/Miami_Heat.png"
+            },
+			{
+                "name": "Orlando",
+                "img": "/static/images/icon/Orlando_Magic.png"
+            },
+			{
+                "name": "Washington",
+                "img": "/static/images/icon/Washington_Wizards.png"
+            }
+        ],
+		"western": [{
+                "name": "Denver",
+                "img": "/static/images/icon/Denver_Nuggets.png"
+            },
+            {
+                "name": "Minnesota",
+                "img": "/static/images/icon/Minnesota_Timberwolves.png"
+            },
+			{
+                "name": "Oklahoma City",
+                "img": "/static/images/icon/Oklahoma_City_Thunder.png"
+            },
+			{
+                "name": "Portland",
+                "img": "/static/images/icon/Portland_Trail_Blazers.png"
+            },
+			{
+                "name": "Utah",
+                "img": "/static/images/icon/Utah_Jazz.png"
+            },
+			{
+                "name": "Golden State",
+                "img": "/static/images/icon/Golden_State_Warriors.png"
+            },
+			{
+                "name": "L.A. Clippers",
+                "img": "/static/images/icon/Los_Angeles_Clippers.png"
+            },
+			{
+                "name": "L.A. Lakers",
+                "img": "/static/images/icon/Los_Angeles_Lakers.png"
+            },
+			{
+                "name": "Phoenix",
+                "img": "/static/images/icon/Phoenix_Suns.png"
+            },
+			{
+                "name": "Sacramento",
+                "img": "/static/images/icon/Sacramento_Kings.png"
+            },
+			{
+                "name": "Dallas",
+                "img": "/static/images/icon/Dallas_Mavericks.png"
+            },
+			{
+                "name": "Houston",
+                "img": "/static/images/icon/Houston_Rockets.png"
+            },
+			{
+                "name": "Memphis",
+                "img": "/static/images/icon/Memphis_Grizzlies.png"
+            },
+			{
+                "name": "New Orleans",
+                "img": "/static/images/icon/New_Orleans_Pelicans.png"
+            },
+			{
+                "name": "San Antonio",
+                "img": "/static/images/icon/San_Antonio_Spurs.png"
+            }
+        ]
+    }
+}
